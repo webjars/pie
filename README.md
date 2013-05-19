@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for PIE
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://css3pie.com
